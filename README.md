@@ -10,4 +10,4 @@ V Clock Configuration spremenimo APB1 Timer clock (MHz) na 16 MHz (pritisnemo EN
 
 V razdelku TIM1, pod Counter Settings, bi radi časovniku spremenili frekvenco na 1 kHz, zato moramo frekvenco ABP1 Timer Clock preskalirati v polju Prescaler (PSC – 16 bit value). Koliko znaša ta vrednost? 16000. 
 
-Komentar: Nastavitev "Serial Wire Viewer" je bila siva zato jo nisem mogel omogočiti. Video nam ni deloval, potenciometer je sicer kazal neko vrednost ampak se ni nič spreminjala
+Komentar: Nastavitev "Serial Wire Viewer" je bila siva zato jo nisem mogel omogočiti. Video nam ni deloval, potenciometer je sicer kazal neko vrednost ampak se ni nič spreminjala.
